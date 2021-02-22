@@ -267,6 +267,13 @@
 			<version>5.0.6.RELEASE</version>
 		</dependency>
 		
+		<!-- spring-test -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>${org.springframework-version}</version>
+		</dependency>
+		
 	</dependencies>
     <build>
         <plugins>
